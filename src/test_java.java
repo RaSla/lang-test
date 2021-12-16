@@ -15,7 +15,7 @@ public class test_java {
         int i_loop2 = 0;
         int i_loop3 = 0;
         int i_counter = 0;
-        int l_counter = 0;
+        long l_counter = 0;
 
         String s_version = System.getProperty("java.version");
         System.out.println("Java Version: " + s_version);
