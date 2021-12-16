@@ -9,3 +9,10 @@
 *.tmp
 *~
 *.log
+
+## Bin
+bin/
+src/*.class
+## Rust
+target/
+Cargo.lock

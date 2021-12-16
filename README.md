@@ -94,3 +94,8 @@ rasla@rasla:~/git/lang-test $
 rasla@rasla:~/git/lang-test $ time ./test_nim; time ./test_nim; time ./test_nim
 ```
 
+## Reports
+
+### 2016-03-17
+
+![](reports/lang-test_2016-03.png)
