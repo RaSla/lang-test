@@ -1,6 +1,6 @@
 fn main() {
-    let mut i_counter : u32 = 0;
-    let mut l_counter : u64 = 0;
+    let mut i_counter: u32 = 0;
+    let mut l_counter: u64 = 0;
 
     println!("Test Rust: ");
     for i_loop1 in 0..10 {
