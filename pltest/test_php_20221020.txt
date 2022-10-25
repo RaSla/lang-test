@@ -1,0 +1,15 @@
+Test PHP:
+Starting: 2022-10-20 19:46:04
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000
+End: 2022-10-20 19:49:42
