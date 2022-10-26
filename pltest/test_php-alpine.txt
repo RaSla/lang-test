@@ -1,0 +1,130 @@
+Inroduction:
+Important! PHP-alpine images don't have preinstall "bash" pkg, but have "sh" shell
+For run test script i use this command:
+docker run -it --rm -v $(pwd):/home/{$USER} -w /home/{$USER} php:7.4-alpine sh
+
+
+php -v
+PHP 7.4.32 (cli) (built: Oct  7 2022 00:37:15) ( NTS )
+
+Test PHP: 
+Starting: 2022-10-26 09:58:17
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:02:03
+
+real    3m 45.97s
+user    3m 45.75s
+sys     0m 0.18s
+
+Test PHP: 
+Starting: 2022-10-26 10:02:03
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:05:42
+
+real    3m 38.69s
+user    3m 38.65s
+sys     0m 0.01s
+
+Test PHP: 
+Starting: 2022-10-26 10:05:42
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:09:17
+
+real    3m 35.00s
+user    3m 34.93s
+sys     0m 0.04s
+
+php -v
+PHP 8.0.24 (cli) (built: Oct  7 2022 00:13:45) ( NTS )
+
+Test PHP: 
+Starting: 2022-10-26 10:26:01
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:29:05
+real    3m 4.20s
+user    3m 4.18s
+sys     0m 0.01s
+
+Test PHP: 
+Starting: 2022-10-26 10:29:05
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:32:10
+
+real    3m 4.52s
+user    3m 4.49s
+sys     0m 0.02s
+
+Test PHP: 
+Starting: 2022-10-26 10:32:10
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 10:35:14
+
+real    3m 4.71s
+user    3m 4.64s
+sys     0m 0.02s
