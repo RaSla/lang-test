@@ -1,0 +1,241 @@
+php --version
+PHP 7.1.33 (cli) (built: Nov 22 2019 18:22:12) ( NTS )
+
+Test PHP:
+Starting: 2022-10-26 07:39:45
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000
+End: 2022-10-26 07:44:34
+
+real    4m49.027s
+user    4m48.944s
+sys     0m0.020s
+Test PHP:
+Starting: 2022-10-26 07:44:34
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000  
+End: 2022-10-26 07:49:24
+
+real    4m50.004s
+user    4m49.973s
+sys     0m0.010s 
+Test PHP: 
+Starting: 2022-10-26 07:49:24
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000  
+End: 2022-10-26 07:54:14
+
+real    4m50.545s
+user    4m50.509s
+sys     0m0.020s
+php -v
+PHP 7.2.34 (cli) (built: Dec 11 2020 10:44:02) ( NTS )
+
+Test PHP: 
+Starting: 2022-10-26 08:18:19
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 08:23:00
+
+real    4m41.503s
+user    4m41.364s
+sys     0m0.081s
+Test PHP: 
+Starting: 2022-10-26 08:23:01
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 08:28:10
+
+real    5m10.016s
+user    5m9.947s
+sys     0m0.051s
+Test PHP: 
+Starting: 2022-10-26 08:28:11
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37 
+l_counter: 10240000000
+End: 2022-10-26 08:35:23
+
+real    7m12.105s
+user    7m12.040s
+sys     0m0.051s
+php -v
+PHP 7.4.32 (cli) (built: Oct  5 2022 08:30:21) ( NTS )
+
+Test PHP: 
+Starting: 2022-10-26 08:57:08
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000  
+End: 2022-10-26 09:00:38
+
+real    3m30.087s
+user    3m29.986s
+sys     0m0.051s 
+Test PHP:
+Starting: 2022-10-26 09:00:38
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000  
+End: 2022-10-26 09:05:08
+
+real    4m30.268s
+user    4m30.031s
+sys     0m0.181s 
+Test PHP:
+Starting: 2022-10-26 09:05:08
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000 
+End: 2022-10-26 09:09:53
+
+real    4m44.224s
+user    4m44.181s
+sys     0m0.041s
+
+php -v
+PHP 8.0.24 (cli) (built: Oct  5 2022 08:04:53) ( NTS )
+
+Test PHP:
+Starting: 2022-10-26 09:14:36
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000  
+End: 2022-10-26 09:17:39
+
+real    3m2.259s
+user    3m2.237s
+sys     0m0.000s
+Test PHP:
+Starting: 2022-10-26 09:17:39
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000  
+End: 2022-10-26 09:20:41
+
+real    3m2.414s
+user    3m2.376s
+sys     0m0.021s
+Test PHP:
+Starting: 2022-10-26 09:20:41
+i_loop1: 0
+i_loop1: 1
+i_loop1: 2
+i_loop1: 3
+i_loop1: 4
+i_loop1: 5
+i_loop1: 6
+i_loop1: 7
+i_loop1: 8
+i_loop1: 9
+i_counter: 37
+l_counter: 10240000000 
+End: 2022-10-26 09:23:43
+
+real    3m2.440s
+user    3m2.400s
+sys     0m0.030s
